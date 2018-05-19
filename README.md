@@ -1,1 +1,3 @@
 # awesome-submodule
+
+Это подмодуль
